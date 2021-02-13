@@ -27,12 +27,12 @@ Using Machine learning and neural networks, I'll use the features in the provide
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
 	The best performance was achieved using the following:
 
-	![layers]("Pictures/layers.png")
+	![layers](Pictures/layers.png)
 
 * Were you able to achieve the target model performance?
 	No, I was not able to achieve the targeted model performance model of 75%. Those best model achieved 72.47%
 
-	![layers]("Pictures/accuracy.png")
+	![layers](Pictures/accuracy.png)
 
 * What steps did you take to try and increase model performance?
 	I tried optimizing the models performance by dropping "noisy" variables, try various activation functions, and adding additional neurons and hidden layers.
